@@ -1,6 +1,7 @@
 # Healthcare Analytics System
 
 ## Overview
+![Interactive Dashboard](imgs/image.png)
 A comprehensive healthcare analytics platform built with Spring Boot and React, providing real-time insights into patient data and medical records through an interactive dashboard.
 
 ## Features
